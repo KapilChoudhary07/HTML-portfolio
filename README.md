@@ -5,6 +5,10 @@ The project is created for learning purposes and academic use, without using any
 
 ---
 
+## 🌐 Live Preview
+🔗https://html-portfolio-gilt-two.vercel.app/
+ ---
+
 ## 📌 Project Overview
 
 This portfolio page displays basic personal and professional information, including skills, certificates, and contact details.  
